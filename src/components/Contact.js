@@ -30,7 +30,7 @@ function Contact() {
                             <h3 className="text-xl font-bold mb-2">Kontak</h3>
                             <div className="flex items-center mb-2">
                                 <img src={callIcon} alt="Kontak" className="w-6 h-6 mr-2" />
-                                <p className="text-gray-800">Telp: +6281804855146</p>
+                                <p className="text-gray-800">Telp: +6281228335313</p>
                             </div>
                         </div>
                     </div>
